@@ -118,7 +118,16 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
   * *Módulo 2 - Agente de IA (Proativo):* Sistema multiagente baseado em **Reinforcement Learning** e **Deep Learning (LSTM)** para monitoramento dinâmico de tráfego, análise comportamental avançada e bloqueios preventivos de ameaças cibernéticas.
   * *Módulo 3 - Central de Observabilidade:* Ingestão de telemetria de rede de baixo nível (C++) e APIs (FastAPI) centralizada em **Elastic Stack (ELK)** para auditorias imutáveis em conformidade com LGPD/GDPR sob os princípios de *Privacy by Design*.
   * *Governança:* Gestão sob metodologia híbrida (Scrum + PMBOK + DevOps) articulada em parceria com a Universidade Vila Velha (UVV).
-* **Tags:** `Reinforcement Learning` `LSTM` `Llama 4` `C++` `FastAPI` `ELK Stack` `FAPES` `Missão Crítica` `LGPD`
+* **Tags:** 
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-blue?style=flat-square" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/LSTM-blue?style=flat-square" alt="LSTM" />
+  <img src="https://img.shields.io/badge/Llama%204-violet?style=flat-square" alt="Llama 4" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK Stack" />
+  <img src="https://img.shields.io/badge/FAPES-Fomento%20NEC-green?style=flat-square" alt="FAPES" />
+  <img src="https://img.shields.io/badge/Miss%C3%A3o%20Cr%C3%ADtica-red?style=flat-square" alt="Missão Crítica" />
+  <img src="https://img.shields.io/badge/LGPD-Seguran%C3%A7a-lightgrey?style=flat-square" alt="LGPD" />
 
 ### Categoria A: Plataformas, Microsserviços & Engenharia Econômica
 
@@ -167,7 +176,16 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleijg&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF7A00&text_color=C9D1D9&icon_color=00A9E0" alt="GitHub Stats" />
+  <a href="https://github.com/wesleijg">
+    <img src="https://img.shields.io/github/repos/public/wesleijg?style=for-the-badge&color=00A9E0&label=Reposit%C3%B3rios" alt="Repositórios" />
+  </a>
+  <a href="https://github.com/wesleijg">
+    <img src="https://img.shields.io/github/commit-activity/y/wesleijg?style=for-the-badge&color=FF7A00&label=Atividade%20de%20Commits" alt="Commits (Ano)" />
+  </a>
+  <a href="https://github.com/wesleijg">
+    <img src="https://img.shields.io/github/followers/wesleijg?style=for-the-badge&color=blue&label=Seguidores" alt="Seguidores" />
+  </a>
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleijg&theme=dark&background=0D1117&fire=FF7A00&ring=00A9E0&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
 
