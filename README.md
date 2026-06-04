@@ -230,7 +230,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
     <img src="https://img.shields.io/github/commit-activity/y/wesleijg/wesleijg?style=for-the-badge&color=FF7A00&label=Commits%20(Ano)" alt="Commits (Ano)" />
   </a>
   <a href="https://github.com/wesleijg">
-    <img src="https://img.shields.io/github/followers/wesleijg?style=for-the-badge&color=blue&label=Seguidores" alt="Seguidores" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwesleijg&query=%24.followers&label=Seguidores&style=for-the-badge&color=blue" alt="Seguidores" />
   </a>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleijg&theme=dark&background=0D1117&fire=FF7A00&ring=00A9E0&currStreakNum=C9D1D9" alt="GitHub Streak" />
@@ -248,7 +248,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 
 Sinta-se à voltar para entrar em contato para discussões sobre engenharia, ciência de dados, parcerias acadêmicas ou projetos de automação:
 
-* **LinkedIn:** [/in/wesleijg](https://www.linkedin.com/in/wesleijg)
+* **LinkedIn:** [wesleijg](https://www.linkedin.com/in/wesleijg)
 * **E-mail:** [weslei@codeornotcode.ai](mailto:weslei@codeornotcode.ai)
 * **ORCID:** [0009-0001-0931-4466](https://orcid.org/0009-0001-0931-4466)
 * **Currículo Lattes:** [6240739224762972](http://lattes.cnpq.br/6240739224762972)
