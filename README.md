@@ -224,10 +224,10 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 
 <div align="center">
   <a href="https://github.com/wesleijg">
-    <img src="https://img.shields.io/github/repos/public/wesleijg?style=for-the-badge&color=00A9E0&label=Reposit%C3%B3rios" alt="Repositórios" />
+    <img src="https://img.shields.io/github/search/wesleijg/user:wesleijg%20is:public?style=for-the-badge&color=00A9E0&label=Reposit%C3%B3rios" alt="Repositórios" />
   </a>
-  <a href="https://github.com/wesleijg">
-    <img src="https://img.shields.io/github/commit-activity/y/wesleijg?style=for-the-badge&color=FF7A00&label=Atividade%20de%20Commits" alt="Commits (Ano)" />
+  <a href="https://github.com/wesleijg/wesleijg">
+    <img src="https://img.shields.io/github/commit-activity/y/wesleijg/wesleijg?style=for-the-badge&color=FF7A00&label=Commits%20(Ano)" alt="Commits (Ano)" />
   </a>
   <a href="https://github.com/wesleijg">
     <img src="https://img.shields.io/github/followers/wesleijg?style=for-the-badge&color=blue&label=Seguidores" alt="Seguidores" />
