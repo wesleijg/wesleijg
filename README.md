@@ -118,7 +118,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
   * *Módulo 2 - Agente de IA (Proativo):* Sistema multiagente baseado em **Reinforcement Learning** e **Deep Learning (LSTM)** para monitoramento dinâmico de tráfego, análise comportamental avançada e bloqueios preventivos de ameaças cibernéticas.
   * *Módulo 3 - Central de Observabilidade:* Ingestão de telemetria de rede de baixo nível (C++) e APIs (FastAPI) centralizada em **Elastic Stack (ELK)** para auditorias imutáveis em conformidade com LGPD/GDPR sob os princípios de *Privacy by Design*.
   * *Governança:* Gestão sob metodologia híbrida (Scrum + PMBOK + DevOps) articulada em parceria com a Universidade Vila Velha (UVV).
-* **Tags:** 
+* **Tags:**
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-blue?style=flat-square" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/LSTM-blue?style=flat-square" alt="LSTM" />
   <img src="https://img.shields.io/badge/Llama%204-violet?style=flat-square" alt="Llama 4" />
@@ -134,7 +134,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 * **Platform Docker (WJG Analytics):**
   * *Descrição:* Desenvolvimento de um ecossistema centralizado de microsserviços em contêineres Docker (PostgreSQL 16, Keycloak, n8n, Evolution, Chatwoot, Prometheus, Grafana). Inclui uma API em FastAPI (`monitor_api`) para monitoramento de telemetria e o painel web administrativo desenvolvido em Reflex (`platform_admin`).
   * *Destaque Acadêmico/Operacional:* Implementação de um algoritmo matemático inovador de **Billing por Minuto** para faturamento do consumo real de hardware físico (GPU RTX 3060 e monitores industriais), utilizando modelagem SCD Type 2.
-  * *Tags:* 
+  * *Tags:*
     <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -152,7 +152,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
     * **XAI (Explainable AI - SHAP & LIME):** SHAP determinístico para justificar a contribuição de skills (`cosseno * 100 - 50.0`) e LIME sentence-level com perturbações locais determinísticas (random_state=42) explicando ao candidato o impacto de cada frase do CV. Atende plenamente ao **Artigo 20 da LGPD**.
     * **Busca Vetorial & RAG:** pgvector no PostgreSQL 16 para busca rápida e RAG contextual com Gemini 1.5 Flash para análise de relatórios OSINT sem alucinações.
     * **Fusão Bayesiana 5D:** Fusão matemática de scores (Técnico, Comportamental, Cultural, Reputação Digital e Jurídico) com normalização proporcional e boosts dinâmicos baseados na confiança do RoBERTa.
-  * *Tags:* 
+  * *Tags:*
     <img src="https://img.shields.io/badge/RoBERTa-blue?style=flat-square" alt="RoBERTa" />
     <img src="https://img.shields.io/badge/NER-blue?style=flat-square" alt="NER" />
     <img src="https://img.shields.io/badge/SHAP-blue?style=flat-square" alt="SHAP" />
@@ -166,8 +166,8 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
     <img src="https://img.shields.io/badge/Keycloak-lightgrey?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
 
 * **CodeChat AI (Core SaaS):**
-  * *Descrição:* Barramento de comunicação assíncrona unificado de WhatsApp e atendimento integrado com instâncias Chatwoot e automações via n8n, com persistência estruturada PostgreSQL e cache de alta velocidade com Redis.
-  * *Tags:* 
+  * *Descrição:* Barramento de comunicação assíncrona unificado de WhatsApp e atendimento integrado e automações via n8n, com persistência estruturada PostgreSQL e cache de alta velocidade com Redis.
+  * *Tags:*
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Chatwoot-violet?style=flat-square" alt="Chatwoot" />
     <img src="https://img.shields.io/badge/Evolution%20API-green?style=flat-square" alt="Evolution API" />
@@ -177,7 +177,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 
 * **CodeMarketing AI (Robô Autônomo de Growth):**
   * *Descrição:* Pipeline inteligente e autônomo baseado em workflows n8n para pesquisa na internet (Tavily API), redação técnica de artigos/posts usando LLMs sob templates de prompt avançados e publicação automática em redes sociais.
-  * *Tags:* 
+  * *Tags:*
     <img src="https://img.shields.io/badge/n8n-red?style=flat-square" alt="n8n" />
     <img src="https://img.shields.io/badge/Tavily%20API-blue?style=flat-square" alt="Tavily API" />
     <img src="https://img.shields.io/badge/Prompt%20Engineering-violet?style=flat-square" alt="Prompt Engineering" />
@@ -189,7 +189,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 * **Materiais Didáticos & Guias de Engenharia de Prompt:**
   * *Descrição:* Concepção e diagramação de material técnico-pedagógico autoral voltado para a difusão do conhecimento de engenharia de instrução para modelos de linguagem.
   * *Entregáveis:* **Guia Prático de Engenharia de Prompt**, **Mapa Mental & Infográfico Dinâmico de Engenharia de Prompt** e documentações sobre limites de contexto e tokenizers (DeepSeek v3).
-  * *Tags:* 
+  * *Tags:*
     <img src="https://img.shields.io/badge/Prompt%20Engineering-violet?style=flat-square" alt="Prompt Engineering" />
     <img src="https://img.shields.io/badge/DeepSeek-blue?style=flat-square" alt="DeepSeek" />
     <img src="https://img.shields.io/badge/Didactic%20Materials-green?style=flat-square" alt="Didactic Materials" />
@@ -199,7 +199,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 
 * **Portal Institucional Code Or Not Code:**
   * *Descrição:* Desenvolvimento da interface web responsiva e modular do ecossistema SaaS da marca. Incorpora pontos de entrada integrados por webhooks ao **n8n** para automação de leads e enriquecimento de contatos via OSINT, além de widgets interativos conectados a agentes conversacionais com **RAG** (Retrieval-Augmented Generation) para atendimento e triagem automática de visitantes.
-  * *Stack:* 
+  * *Stack:*
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -209,7 +209,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
     <img src="https://img.shields.io/badge/SEO%20Otimizado-green?style=flat-square" alt="SEO Otimizado" />
 * **Plataforma Web Jurídica Serverless & Automação de Leads:**
   * *Descrição:* Arquitetura web de alta performance desenvolvida para o setor jurídico e implantada na borda (Edge Computing) via Cloudflare Pages/Workers (`wrangler.toml`), garantindo custo operacional virtualmente nulo e máxima disponibilidade. Integra workflows do **n8n** por webhooks para triagem automatizada, tratamento e roteamento inteligente de dados de leads para barramentos de atendimento, CRMs e bancos de dados.
-  * *Stack:* 
+  * *Stack:*
     <img src="https://img.shields.io/badge/Wrangler-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Wrangler" />
     <img src="https://img.shields.io/badge/Cloudflare%20Pages-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
     <img src="https://img.shields.io/badge/Edge%20Workers-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Edge Workers" />
@@ -224,7 +224,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 
 <div align="center">
   <a href="https://github.com/wesleijg">
-    <img src="https://img.shields.io/github/search/wesleijg/user:wesleijg%20is:public?style=for-the-badge&color=00A9E0&label=Reposit%C3%B3rios" alt="Repositórios" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwesleijg&query=%24.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&color=00A9E0" alt="Repositórios" />
   </a>
   <a href="https://github.com/wesleijg/wesleijg">
     <img src="https://img.shields.io/github/commit-activity/y/wesleijg/wesleijg?style=for-the-badge&color=FF7A00&label=Commits%20(Ano)" alt="Commits (Ano)" />
