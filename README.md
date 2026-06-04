@@ -236,6 +236,12 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleijg&theme=dark&background=0D1117&fire=FF7A00&ring=00A9E0&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="Nuvem de Palavras.png" alt="Nuvem de Palavras" width="800" />
+</div>
+
 ---
 
 ## Contato
