@@ -134,7 +134,14 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 * **Platform Docker (WJG Analytics):**
   * *Descrição:* Desenvolvimento de um ecossistema centralizado de microsserviços em contêineres Docker (PostgreSQL 16, Keycloak, n8n, Evolution, Chatwoot, Prometheus, Grafana). Inclui uma API em FastAPI (`monitor_api`) para monitoramento de telemetria e o painel web administrativo desenvolvido em Reflex (`platform_admin`).
   * *Destaque Acadêmico/Operacional:* Implementação de um algoritmo matemático inovador de **Billing por Minuto** para faturamento do consumo real de hardware físico (GPU RTX 3060 e monitores industriais), utilizando modelagem SCD Type 2.
-  * *Tags:* `Docker Compose` `FastAPI` `PostgreSQL` `Reflex (Python)` `Keycloak` `Prometheus` `Engenharia Econômica`
+  * *Tags:* 
+    <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Reflex%20(Python)-violet?style=flat-square" alt="Reflex (Python)" />
+    <img src="https://img.shields.io/badge/Keycloak-lightgrey?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+    <img src="https://img.shields.io/badge/Engenharia%20Econ%C3%B4mica-orange?style=flat-square" alt="Engenharia Econômica" />
 
 ### Categoria B: Softwares Autorais & Inteligência Artificial
 
@@ -145,31 +152,71 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
     * **XAI (Explainable AI - SHAP & LIME):** SHAP determinístico para justificar a contribuição de skills (`cosseno * 100 - 50.0`) e LIME sentence-level com perturbações locais determinísticas (random_state=42) explicando ao candidato o impacto de cada frase do CV. Atende plenamente ao **Artigo 20 da LGPD**.
     * **Busca Vetorial & RAG:** pgvector no PostgreSQL 16 para busca rápida e RAG contextual com Gemini 1.5 Flash para análise de relatórios OSINT sem alucinações.
     * **Fusão Bayesiana 5D:** Fusão matemática de scores (Técnico, Comportamental, Cultural, Reputação Digital e Jurídico) com normalização proporcional e boosts dinâmicos baseados na confiança do RoBERTa.
-  * *Tags:* `RoBERTa` `NER` `SHAP` `LIME` `pgvector` `RAG` `Bayes` `FastAPI` `Reflex` `n8n` `Keycloak`
+  * *Tags:* 
+    <img src="https://img.shields.io/badge/RoBERTa-blue?style=flat-square" alt="RoBERTa" />
+    <img src="https://img.shields.io/badge/NER-blue?style=flat-square" alt="NER" />
+    <img src="https://img.shields.io/badge/SHAP-blue?style=flat-square" alt="SHAP" />
+    <img src="https://img.shields.io/badge/LIME-blue?style=flat-square" alt="LIME" />
+    <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+    <img src="https://img.shields.io/badge/RAG-violet?style=flat-square" alt="RAG" />
+    <img src="https://img.shields.io/badge/Bayes-blue?style=flat-square" alt="Bayes" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Reflex-violet?style=flat-square" alt="Reflex" />
+    <img src="https://img.shields.io/badge/n8n-red?style=flat-square" alt="n8n" />
+    <img src="https://img.shields.io/badge/Keycloak-lightgrey?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
 
 * **CodeChat AI (Core SaaS):**
   * *Descrição:* Barramento de comunicação assíncrona unificado de WhatsApp e atendimento integrado com instâncias Chatwoot e automações via n8n, com persistência estruturada PostgreSQL e cache de alta velocidade com Redis.
-  * *Tags:* `Python` `Chatwoot` `Evolution API` `Redis` `n8n` `Prompt Engineering`
+  * *Tags:* 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Chatwoot-violet?style=flat-square" alt="Chatwoot" />
+    <img src="https://img.shields.io/badge/Evolution%20API-green?style=flat-square" alt="Evolution API" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/n8n-red?style=flat-square" alt="n8n" />
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-violet?style=flat-square" alt="Prompt Engineering" />
 
 * **CodeMarketing AI (Robô Autônomo de Growth):**
   * *Descrição:* Pipeline inteligente e autônomo baseado em workflows n8n para pesquisa na internet (Tavily API), redação técnica de artigos/posts usando LLMs sob templates de prompt avançados e publicação automática em redes sociais.
-  * *Tags:* `n8n` `Tavily API` `Prompt Engineering` `AI Agents` `RPA`
+  * *Tags:* 
+    <img src="https://img.shields.io/badge/n8n-red?style=flat-square" alt="n8n" />
+    <img src="https://img.shields.io/badge/Tavily%20API-blue?style=flat-square" alt="Tavily API" />
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-violet?style=flat-square" alt="Prompt Engineering" />
+    <img src="https://img.shields.io/badge/AI%20Agents-violet?style=flat-square" alt="AI Agents" />
+    <img src="https://img.shields.io/badge/RPA-orange?style=flat-square" alt="RPA" />
 
 ### Categoria C: Produção Pedagógica & Engenharia de Prompts
 
 * **Materiais Didáticos & Guias de Engenharia de Prompt:**
   * *Descrição:* Concepção e diagramação de material técnico-pedagógico autoral voltado para a difusão do conhecimento de engenharia de instrução para modelos de linguagem.
   * *Entregáveis:* **Guia Prático de Engenharia de Prompt**, **Mapa Mental & Infográfico Dinâmico de Engenharia de Prompt** e documentações sobre limites de contexto e tokenizers (DeepSeek v3).
-  * *Tags:* `Prompt Engineering` `DeepSeek` `Didactic Materials` `LLM Context`
+  * *Tags:* 
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-violet?style=flat-square" alt="Prompt Engineering" />
+    <img src="https://img.shields.io/badge/DeepSeek-blue?style=flat-square" alt="DeepSeek" />
+    <img src="https://img.shields.io/badge/Didactic%20Materials-green?style=flat-square" alt="Didactic Materials" />
+    <img src="https://img.shields.io/badge/LLM%20Context-violet?style=flat-square" alt="LLM Context" />
 
 ### Categoria D: Desenvolvimento Web & Transferência Tecnológica
 
 * **Portal Institucional Code Or Not Code:**
   * *Descrição:* Desenvolvimento da interface web responsiva e modular do ecossistema SaaS da marca. Incorpora pontos de entrada integrados por webhooks ao **n8n** para automação de leads e enriquecimento de contatos via OSINT, além de widgets interativos conectados a agentes conversacionais com **RAG** (Retrieval-Augmented Generation) para atendimento e triagem automática de visitantes.
-  * *Stack:* `Vite` `React` `TypeScript` `Tailwind CSS` `n8n Webhooks` `RAG & AI Agents` `SEO Otimizado`
+  * *Stack:* 
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/n8n%20Webhooks-red?style=flat-square" alt="n8n Webhooks" />
+    <img src="https://img.shields.io/badge/RAG%20%26%20AI%20Agents-violet?style=flat-square" alt="RAG & AI Agents" />
+    <img src="https://img.shields.io/badge/SEO%20Otimizado-green?style=flat-square" alt="SEO Otimizado" />
 * **Plataforma Web Jurídica Serverless & Automação de Leads:**
   * *Descrição:* Arquitetura web de alta performance desenvolvida para o setor jurídico e implantada na borda (Edge Computing) via Cloudflare Pages/Workers (`wrangler.toml`), garantindo custo operacional virtualmente nulo e máxima disponibilidade. Integra workflows do **n8n** por webhooks para triagem automatizada, tratamento e roteamento inteligente de dados de leads para barramentos de atendimento, CRMs e bancos de dados.
-  * *Stack:* `Wrangler` `Cloudflare Pages` `Edge Workers` `n8n Workflows` `REST APIs` `RAG Contextual` `Serverless`
+  * *Stack:* 
+    <img src="https://img.shields.io/badge/Wrangler-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Wrangler" />
+    <img src="https://img.shields.io/badge/Cloudflare%20Pages-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
+    <img src="https://img.shields.io/badge/Edge%20Workers-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Edge Workers" />
+    <img src="https://img.shields.io/badge/n8n%20Workflows-red?style=flat-square" alt="n8n Workflows" />
+    <img src="https://img.shields.io/badge/REST%20APIs-blue?style=flat-square" alt="REST APIs" />
+    <img src="https://img.shields.io/badge/RAG%20Contextual-violet?style=flat-square" alt="RAG Contextual" />
+    <img src="https://img.shields.io/badge/Serverless-lightgrey?style=flat-square" alt="Serverless" />
 
 ---
 
