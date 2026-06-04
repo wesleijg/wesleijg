@@ -1,8 +1,8 @@
 # Olá, eu sou o Weslei
 
 <div align="center">
-  <h3><b>Weslei J. G.</b></h3>
-  <p><b>Engenheiro de Produção | Cientista de Dados | Engenheiro de Prompts | Engenheiro de IA</b></p>
+  <h3><b>Weslei J. Garcia</b></h3>
+  <p><b>Engenheiro de Produção | Cientista de Dados | Engenheiro de Prompts | Desenvolvedor de Softwares</b></p>
   <p><i>A rigorosidade da Engenharia de Processos unida ao poder preditivo da Inteligência Artificial e à robustez do desenvolvimento de plataformas.</i></p>
 </div>
 
@@ -166,7 +166,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
     <img src="https://img.shields.io/badge/Keycloak-lightgrey?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
 
 * **CodeChat AI (Core SaaS):**
-  * *Descrição:* Barramento de comunicação assíncrona unificado de WhatsApp e atendimento integrado e automações via n8n, com persistência estruturada PostgreSQL e cache de alta velocidade com Redis.
+  * *Descrição:* Barramento de comunicação assíncrona unificado de WhatsApp, Instagram, Facebook, TikTok, Telegram com atendimentos integrados e automações via n8n, com persistência estruturada PostgreSQL e cache de alta velocidade com Redis.
   * *Tags:*
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Chatwoot-violet?style=flat-square" alt="Chatwoot" />
