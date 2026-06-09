@@ -105,6 +105,13 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
   * *Engenharia de Tempos e Métodos:* Foco na melhoria contínua de processos corporativos, visando reduzir desperdícios e mitigar os custos de contratação incorreta (estimados em até 150% do salário anual do cargo) e otimizar indicadores operacionais como o **Time-to-Hire**.
   * *Pesquisa Operacional (PO):* Modelagem matemática para apoio ao decisor humano integrando: embeddings determinísticos e NER locais via modelo **RoBERTa PT-BR**; IA Explicável (**SHAP e LIME**) para transparência legal conforme o Artigo 20 da LGPD; e a quantificação de incertezas de scores por **Inferência Bayesiana**.
   * *Avaliação Psicométrica:* Fusão matemática de scores técnicos com eixos comportamentais (DISC, MBTI, OCEAN/Big Five, Eneagrama).
+* **Tags:**
+  <img src="https://img.shields.io/badge/Pesquisa%20Operacional-blue?style=flat-square" alt="Pesquisa Operacional" />
+  <img src="https://img.shields.io/badge/RoBERTa%20PT--BR-blue?style=flat-square" alt="RoBERTa PT-BR" />
+  <img src="https://img.shields.io/badge/SHAP%20%2F%20LIME-blue?style=flat-square" alt="SHAP / LIME" />
+  <img src="https://img.shields.io/badge/Infer%C3%AAncia%20Bayesiana-blue?style=flat-square" alt="Inferência Bayesiana" />
+  <img src="https://img.shields.io/badge/Engenharia%20Organizacional-orange?style=flat-square" alt="Engenharia Organizacional" />
+  <img src="https://img.shields.io/badge/Tempos%20%26%20M%C3%A9todos-orange?style=flat-square" alt="Tempos & Métodos" />
 
 ### Projeto em Foco: MetroX-AI: Inteligência em Cibersegurança
 
@@ -153,6 +160,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
     * **Busca Vetorial & RAG:** pgvector no PostgreSQL 16 para busca rápida e RAG contextual com Gemini 1.5 Flash para análise de relatórios OSINT sem alucinações.
     * **Fusão Bayesiana 5D:** Fusão matemática de scores (Técnico, Comportamental, Cultural, Reputação Digital e Jurídico) com normalização proporcional e boosts dinâmicos baseados na confiança do RoBERTa.
   * *Tags:*
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/RoBERTa-blue?style=flat-square" alt="RoBERTa" />
     <img src="https://img.shields.io/badge/NER-blue?style=flat-square" alt="NER" />
     <img src="https://img.shields.io/badge/SHAP-blue?style=flat-square" alt="SHAP" />
@@ -178,6 +186,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 * **CodeMarketing AI (Robô Autônomo de Growth):**
   * *Descrição:* Pipeline inteligente e autônomo baseado em workflows n8n para pesquisa na internet (Tavily API), redação técnica de artigos/posts usando LLMs sob templates de prompt avançados e publicação automática em redes sociais.
   * *Tags:*
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/n8n-red?style=flat-square" alt="n8n" />
     <img src="https://img.shields.io/badge/Tavily%20API-blue?style=flat-square" alt="Tavily API" />
     <img src="https://img.shields.io/badge/Prompt%20Engineering-violet?style=flat-square" alt="Prompt Engineering" />
@@ -190,6 +199,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
   * *Descrição:* Concepção e diagramação de material técnico-pedagógico autoral voltado para a difusão do conhecimento de engenharia de instrução para modelos de linguagem.
   * *Entregáveis:* **Guia Prático de Engenharia de Prompt**, **Mapa Mental & Infográfico Dinâmico de Engenharia de Prompt** e documentações sobre limites de contexto e tokenizers (DeepSeek v3).
   * *Tags:*
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Prompt%20Engineering-violet?style=flat-square" alt="Prompt Engineering" />
     <img src="https://img.shields.io/badge/DeepSeek-blue?style=flat-square" alt="DeepSeek" />
     <img src="https://img.shields.io/badge/Didactic%20Materials-green?style=flat-square" alt="Didactic Materials" />
@@ -197,9 +207,10 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 
 ### Categoria D: Desenvolvimento Web & Transferência Tecnológica
 
-* **Portal Institucional Code Or Not Code:**
+* **Landing Page:**
   * *Descrição:* Desenvolvimento da interface web responsiva e modular do ecossistema SaaS da marca. Incorpora pontos de entrada integrados por webhooks ao **n8n** para automação de leads e enriquecimento de contatos via OSINT, além de widgets interativos conectados a agentes conversacionais com **RAG** (Retrieval-Augmented Generation) para atendimento e triagem automática de visitantes.
   * *Stack:*
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -210,6 +221,7 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
 * **Plataforma Web Jurídica Serverless & Automação de Leads:**
   * *Descrição:* Arquitetura web de alta performance desenvolvida para o setor jurídico e implantada na borda (Edge Computing) via Cloudflare Pages/Workers (`wrangler.toml`), garantindo custo operacional virtualmente nulo e máxima disponibilidade. Integra workflows do **n8n** por webhooks para triagem automatizada, tratamento e roteamento inteligente de dados de leads para barramentos de atendimento, CRMs e bancos de dados.
   * *Stack:*
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Wrangler-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Wrangler" />
     <img src="https://img.shields.io/badge/Cloudflare%20Pages-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
     <img src="https://img.shields.io/badge/Edge%20Workers-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Edge Workers" />
@@ -217,6 +229,18 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
     <img src="https://img.shields.io/badge/REST%20APIs-blue?style=flat-square" alt="REST APIs" />
     <img src="https://img.shields.io/badge/RAG%20Contextual-violet?style=flat-square" alt="RAG Contextual" />
     <img src="https://img.shields.io/badge/Serverless-lightgrey?style=flat-square" alt="Serverless" />
+* **Landing Page (P&D, Cybersecurity e Transformação Digital B2B):**
+  * *Descrição:* Desenvolvimento de um portal de alta performance e autoridade técnica focado em conversão e geração de leads corporativos para a marca. Incorpora componentes gráficos interativos 3D com **Three.js** e plotagem analítica de dados com **Recharts**, além de animações fluidas baseadas em **Framer Motion**. A captura e enriquecimento de leads são orquestrados por barramentos de atendimento, CRMs e bancos de dados em nuvem com workflows do **n8n** em deploy serverless na borda (Edge) via Cloudflare Pages.
+  * *Stack:*
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+    <img src="https://img.shields.io/badge/Recharts-blue?style=flat-square" alt="Recharts" />
+    <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+    <img src="https://img.shields.io/badge/n8n%20Workflows-red?style=flat-square" alt="n8n Workflows" />
+    <img src="https://img.shields.io/badge/Cloudflare%20Pages-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
 
 ---
 
@@ -236,18 +260,19 @@ Abaixo estão selecionados os principais projetos autorais desenvolvidos por mim
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleijg&theme=dark&background=0D1117&fire=FF7A00&ring=00A9E0&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
 
-<br />
+# <br />
 
 <div align="center">
-  <img src="Nuvem de Palavras.png" alt="Nuvem de Palavras" width="800" />
+<img src="Nuvem de Palavras.png" alt="Nuvem de Palavras" width="800" />
 </div>
 
 ---
 
 ## Contato
 
-Sinta-se à voltar para entrar em contato para discussões sobre engenharia, ciência de dados, parcerias acadêmicas ou projetos de automação:
+Sinta-se à vontade para entrar em contato para discussões sobre engenharia, ciência de dados, parcerias acadêmicas ou projetos de automação:
 
+* **Website:** [codeornotcode.ai](https://codeornotcode.ai)
 * **LinkedIn:** [wesleijg](https://www.linkedin.com/in/wesleijg)
 * **E-mail:** [weslei@codeornotcode.ai](mailto:weslei@codeornotcode.ai)
 * **ORCID:** [0009-0001-0931-4466](https://orcid.org/0009-0001-0931-4466)
